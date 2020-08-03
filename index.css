@@ -31,7 +31,6 @@ h1{
   }
 }
 
-
 .teams {
   background-image: url("src/bgk-header.png");
   color: white;
@@ -400,7 +399,6 @@ span{
   }
 }
 
-
 .peopleSay table img {
   max-width: 120px;
   max-height: 50px;
@@ -533,7 +531,6 @@ span{
   flex-direction: row;
 }
 
-
 #paper {
   background-color: rgb(253, 247, 247);
   opacity: 0.3;
@@ -595,7 +592,6 @@ span{
   margin-top: 15px;
   width: 35%
 }
-
 
 @media (max-width: 768px){
    #impressum, #lastLine {
